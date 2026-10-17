@@ -1,0 +1,6 @@
+{
+  "name": "Gemini Studio",
+  "description": "Multi-key Google Gemini AI workspace with 3-key fallback rotation, latency testing, and interactive prompt studio.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
